@@ -12,7 +12,7 @@ require (
 	github.com/google/go-containerregistry v0.7.0
 	github.com/mattmoor/dep-notify v0.0.0-20190205035814-a45dec370a17
 	github.com/mattn/go-isatty v0.0.13 // indirect
-	github.com/opencontainers/image-spec v1.0.2-0.20210730191737-8e42a01fb1b7
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/sigstore/cosign v1.3.2-0.20211120003522-90e2dcfe7b92
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
